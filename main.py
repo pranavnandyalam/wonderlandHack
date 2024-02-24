@@ -16,6 +16,7 @@ bpawn = pygame.image.load("/Users/prn/PycharmProjects/chess/chessimgs/bP.svg")
 wpawn = pygame.transform.scale(wpawn, (100, 100))
 bpawn = pygame.transform.scale(bpawn, (100, 100))
 
+
 class Board:
     def __init__(self):
         self.rows, self.cols = 8, 8
