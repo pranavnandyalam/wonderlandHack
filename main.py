@@ -10,6 +10,22 @@ width = display.current_w
 height = display.current_h
 screen = pygame.display.set_mode((width, height), pygame.RESIZABLE)
 pygame.display.set_caption("Chess")
+# font = pygame.font.Font('freesansbold.ttf', 20)
+# big_font = pygame.font.Font('freesansbold.tff', 50)
+# timer = pygame.time.Clock()
+# fps = 60
+#
+# run = True
+# while run:
+#     timer.tick(fps)
+#     screen.fill('dark gray')
+#
+#     for event in pygame.event.get():
+#         if event.type == pygame.QUIT:
+#             run = False
+#     pygame.display.flip()
+# pygame.quit()
+
 
 wpawn = pygame.image.load("/Users/prn/PycharmProjects/chess/chessimgs/wP.svg")
 bpawn = pygame.image.load("/Users/prn/PycharmProjects/chess/chessimgs/bP.svg")
