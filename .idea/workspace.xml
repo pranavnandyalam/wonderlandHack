@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3802ce-84a9-4b9d-9d5a-8910795dfe4b" name="Changes" comment="chess">
-      <change afterPath="$PROJECT_DIR$/cards/air.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/wallofdoom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice/dice6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chessGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/chessGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3d3802ce-84a9-4b9d-9d5a-8910795dfe4b" name="Changes" comment="chess" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708389492837</updated>
       <workItem from="1708389494923" duration="37879000" />
-      <workItem from="1708816646818" duration="23645000" />
+      <workItem from="1708816646818" duration="24372000" />
     </task>
     <task id="LOCAL-00001" summary="chess">
       <option name="closed" value="true" />
@@ -163,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708811109092</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chess">
+      <option name="closed" value="true" />
+      <created>1708849237061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708849237061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +178,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="chess" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chess$chessGame.coverage" NAME="chessGame Coverage Results" MODIFIED="1708843645773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chess$chessGame.coverage" NAME="chessGame Coverage Results" MODIFIED="1708843960833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chess$main.coverage" NAME="main Coverage Results" MODIFIED="1708793056774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chess$tests.coverage" NAME="tests Coverage Results" MODIFIED="1708793039406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chess$chess.coverage" NAME="chess Coverage Results" MODIFIED="1708793961569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
